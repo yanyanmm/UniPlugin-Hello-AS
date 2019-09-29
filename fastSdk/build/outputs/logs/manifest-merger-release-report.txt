@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:2:1-88:12
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:2:1-88:12
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:2:1-88:12
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:2:1-88:12
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:2:1-88:12
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:2:1-88:12
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:3:5-33
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:6:5-30
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:5:5-29
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:4:5-35
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:21:22-70
+uses-feature#android.hardware.camera
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:24:19-67
+uses-feature#android.hardware.camera.flash
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:25:19-63
+uses-feature#android.hardware.camera.setParameters
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:26:5-74
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:26:19-71
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:28:22-77
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:29:5-74
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:29:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:30:5-68
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:30:22-65
+application
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:31:5-86:19
+	android:allowBackup
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:32:9-35
+activity#com.gensee.fastsdk.ui.portrait.PublishActivity
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:33:9-38:77
+	android:screenOrientation
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:36:13-49
+	android:windowSoftInputMode
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:38:13-74
+	android:configChanges
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:35:13-107
+	android:theme
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:37:13-66
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:34:13-74
+activity#com.gensee.fastsdk.ui.landscape.LandscapePubActivity
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:39:9-44:77
+	android:screenOrientation
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:42:13-50
+	android:windowSoftInputMode
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:44:13-74
+	android:configChanges
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:41:13-107
+	android:theme
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:43:13-66
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:40:13-80
+activity#com.gensee.fastsdk.ui.portrait.WatchActivity
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:45:9-51:77
+	android:screenOrientation
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:49:13-49
+	android:hardwareAccelerated
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:46:13-47
+	android:windowSoftInputMode
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:51:13-74
+	android:configChanges
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:48:13-107
+	android:theme
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:50:13-66
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:47:13-72
+activity#com.gensee.fastsdk.ui.LiveActivity
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:52:9-59:20
+	android:screenOrientation
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:57:13-49
+	android:launchMode
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:55:13-44
+	android:windowSoftInputMode
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:58:13-73
+	android:configChanges
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:54:13-107
+	android:theme
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:56:13-66
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:53:13-62
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:62:9-67:79
+	android:screenOrientation
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:66:13-47
+	android:windowSoftInputMode
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:67:13-67
+	android:exported
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:65:13-37
+	android:configChanges
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:64:13-85
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:63:13-60
+activity#com.alipay.sdk.app.H5AuthActivity
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:68:9-73:79
+	android:screenOrientation
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:72:13-47
+	android:windowSoftInputMode
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:73:13-67
+	android:exported
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:71:13-37
+	android:configChanges
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:70:13-74
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:69:13-61
+service#com.gensee.fastsdk.service.LogCatService
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:77:9-76
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:77:18-73
+activity#com.gensee.fastsdk.ui.VodActivity
+ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:80:9-85:76
+	android:screenOrientation
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:83:13-49
+	android:windowSoftInputMode
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:85:13-73
+	android:configChanges
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:82:13-107
+	android:theme
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:84:13-66
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml:81:13-61
+uses-sdk
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\fastSdk\AndroidManifest.xml

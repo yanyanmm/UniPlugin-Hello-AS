@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-zh-rTW-xhdpi-v4\\fs_vote_answer_success.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-zh-rTW-xhdpi\\fs_vote_answer_success.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-zh-rTW-xhdpi-v4\\fs_gs_audio_default_content.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-zh-rTW-xhdpi\\fs_gs_audio_default_content.png"
+    }
+]

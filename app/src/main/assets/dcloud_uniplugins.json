@@ -1,0 +1,24 @@
+{
+  "nativePlugins": [
+    {
+      "hooksClass": "",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "DCloud-RichAlert",
+          "class": "uni.dcloud.io.uniplugin_richalert.RichAlertWXModule"
+        }
+      ]
+    },
+    {
+      "hooksClass": "com.gensee.fastsdkwx.FastSdkWXAppHookProxy",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "Gensee-FastSdkWX",
+          "class": "com.gensee.fastsdkwx.FastSdkWXModule"
+        }
+      ]
+    }
+  ]
+}

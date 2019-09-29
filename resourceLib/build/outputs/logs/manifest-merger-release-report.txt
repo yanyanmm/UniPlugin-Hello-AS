@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:2:1-15:12
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:3:5-31
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:5:5-30
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:4:5-28
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+application
+ADDED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:8:5-13:19
+	android:allowBackup
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:9:9-35
+activity#com.gensee.rtlib.LibActivity
+ADDED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:10:9-12:20
+	android:name
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml:11:13-56
+uses-sdk
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+		ADDED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml
+		INJECTED from D:\android\projects\UniPlugin-Hello-AS\resourceLib\AndroidManifest.xml

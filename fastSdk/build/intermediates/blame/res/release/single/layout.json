@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_reward_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_reward_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_pub_land_btns_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_pub_land_btns_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_introdution.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_introdution.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_chapter_item_ly.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_chapter_item_ly.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_qa_view_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_qa_view_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_vod_video_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_vod_video_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_activity_publish.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_activity_publish.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_chat_bottom_ly.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_chat_bottom_ly.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_fullscreen_small_right.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_fullscreen_small_right.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_vod_chat_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_vod_chat_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_progress_relative.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_progress_relative.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_dialog_with_close_btn.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_dialog_with_close_btn.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_public_chat_item.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_public_chat_item.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_rollcall_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_rollcall_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_idc_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_idc_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_vod_top_float_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_vod_top_float_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_vote_receiver_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_vote_receiver_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_bright_volume_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_bright_volume_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_xlistview_header.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_progress_exit_wait.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_progress_exit_wait.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_custom_toast_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_custom_toast_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_fragment_publish.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_fragment_publish.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_card_publish_tv.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_card_publish_tv.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_vote_child_item_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_vote_child_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_lib.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\resourceLib\\build\\intermediates\\packaged_res\\release\\layout\\activity_main_lib.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_fragment_watch.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_fragment_watch.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_lottery_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_lottery_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_activity_live_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_activity_live_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_vod_pop_more_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_vod_pop_more_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_card_result_publish_item_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_card_result_publish_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_xlistview_footer.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_activity_watch.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_activity_watch.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_tip_board_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_tip_board_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_qa_item_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_qa_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_localvideo_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_localvideo_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_fragment_land_pub.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_fragment_land_pub.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_vod_play_bar_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_vod_play_bar_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_publish_top_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_publish_top_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_tip_board_item.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_tip_board_item.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_vod_qa_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_vod_qa_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_receiver_doc_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_receiver_doc_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_new_msg_tip_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_new_msg_tip_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_single_expression_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_single_expression_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_private_chat_item_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_private_chat_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_rel_tip_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_rel_tip_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_card_single_judgment_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_card_single_judgment_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_black_idc_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_black_idc_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_progress_dialog_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_progress_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_pop_quality_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_pop_quality_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_vod_speed_rate_pop_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_vod_speed_rate_pop_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_lottery_finish_item_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_lottery_finish_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_user_operate_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_user_operate_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_vod_doc_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_vod_doc_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_dialog.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_receiver_float_right_bar.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_receiver_float_right_bar.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_vod_chapter_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_vod_chapter_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_land_idc_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_land_idc_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_public_chat_view_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_public_chat_view_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_publish_btns_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_publish_btns_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_receiver_video_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_receiver_video_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_land_chat_item.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_land_chat_item.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_card_view_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_card_view_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_amount_dialog.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_amount_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_idc_item_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_idc_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_pop_more_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_pop_more_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_chat_bottom_ly.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_chat_bottom_ly.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_activity_vod_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_activity_vod_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_publish_video_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_publish_video_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_vote_group_item_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_vote_group_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_activity_land_pub.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_activity_land_pub.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_input_dialog.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_input_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_private_chat_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_private_chat_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_public_chat_item.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_public_chat_item.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_receiver_float_bottom_bar.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_receiver_float_bottom_bar.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_chat_gridview_expression_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_chat_gridview_expression_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_gs_bottom_lv_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_gs_bottom_lv_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\layout\\fs_top_float_layout.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\layout\\fs_top_float_layout.xml"
+    }
+]

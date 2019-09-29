@@ -1,0 +1,78 @@
+apply plugin: 'com.android.library'
+
+
+repositories{
+    flatDir{dirs 'libs'}
+}
+
+dependencies {
+    api files('libs/gensee_doc.jar')
+    api files('libs/gensee_common.jar')
+    api files('libs/gensee_expression.jar')
+    api files('libs/gensee_hb.jar')
+    api files('libs/gensee_rt_audio.jar')
+    api files('libs/gensee_rtsdk.jar')
+    api files('libs/gensee_video.jar')
+    api files('libs/gensee_rtmpplayer.jar')
+    api files('libs/gensee_baseplayer.jar')
+    api files('libs/gensee_vod_ol.jar')
+    api files('libs/gensee_danmu.jar')
+
+    api files('libs/alipaySdk-20160825.jar')
+
+//    api files('libs/android-support-v4.jar')
+    //api 'com.android.support:support-v4:26+'
+    api files('libs/gensee_fastsdk.jar')
+    api project(':resourceLib')
+}
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "28.0.3"
+    defaultConfig{
+        minSdkVersion 14
+        targetSdkVersion 26
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ["libs"]
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+        disable 'MissingTranslation'
+//        checkReleaseBuilds false
+    }
+
+//挂接自定义task到构建过程中
+this.project.afterEvaluate { project ->
+//    获得build task
+    def buildTask = project.tasks.getByName('build')
+    if (buildTask == null) {
+        throw GradleException('the build task is not found')
+    }
+    buildTask.doFirst {
+        copyJar.execute()
+    }
+}
+
+task copyJar(type: Copy, dependsOn: ':sdk:jar'){
+    from "../../sdk/build/libs"
+    into "${rootDir}/fastSdk/libs"
+}
+
+}
+

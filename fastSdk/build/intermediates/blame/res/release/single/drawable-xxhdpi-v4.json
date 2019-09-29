@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_danmu_golden.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_danmu_golden.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_live_pause.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_live_pause.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_ic_q_hd.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_ic_q_hd.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_mic_open.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_mic_open.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_loading4.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_loading4.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_loading1.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_loading1.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_title_bg.9.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_title_bg.9.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_close_dialog.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_close_dialog.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_sponsor_selected.9.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_sponsor_selected.9.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_no_content.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_no_content.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\resourceLib\\build\\intermediates\\packaged_res\\release\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_progressbar_loading.xml",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_progressbar_loading.xml"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_pip_switch.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_pip_switch.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_danmu_silver.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_danmu_silver.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_ic_fullscreen_small.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_ic_fullscreen_small.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_danmu_bronze.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_danmu_bronze.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_loading2.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_loading2.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_to_right_arrow.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_to_right_arrow.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_video_doc_open.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_video_doc_open.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_localvideoview_close.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_localvideoview_close.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_rmb.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_rmb.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_ic_q_sd.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_ic_q_sd.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_rank_silver.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_rank_silver.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_money_back.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_money_back.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_loading3.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_loading3.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_ic_open_title_danmaku.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_ic_open_title_danmaku.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_sponsor_unenable.9.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_sponsor_unenable.9.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_icon_no_doc.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_icon_no_doc.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_video_doc_doc_open.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_video_doc_doc_open.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_localvideoview_switch_camera.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_localvideoview_switch_camera.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_rank_gold.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_rank_gold.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_ic_reward.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_ic_reward.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_pop_quality_bg.9.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_pop_quality_bg.9.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_no_chapter.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_no_chapter.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_sponsor_unselected.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_sponsor_unselected.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_sponsor.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_sponsor.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_danmu_bronze_bg.9.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_danmu_bronze_bg.9.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_tip_sums_bg.9.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_tip_sums_bg.9.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_rank_bronze.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_rank_bronze.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_ic_close_title_danmaku.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_ic_close_title_danmaku.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_ic_chat_tip_msg.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_ic_chat_tip_msg.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_icon_no_qa.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_icon_no_qa.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_ic_have_no_video.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_ic_have_no_video.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_danmu_golden_bg.9.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_danmu_golden_bg.9.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_icon_small_switch_content.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_icon_small_switch_content.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_rank_back.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_rank_back.png"
+    },
+    {
+        "merged": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\fs_gs_ic_danmu_silver_bg.9.png",
+        "source": "D:\\android\\projects\\UniPlugin-Hello-AS\\fastSdk\\res\\drawable-xxhdpi\\fs_gs_ic_danmu_silver_bg.9.png"
+    }
+]
